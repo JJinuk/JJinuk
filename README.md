@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=JinukChoi%20&fontSize=100&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Choi_Jinuk%20&fontSize=100&descAlignY=51&descAlign=62)
 
 <h3 align="center">⚙️ Tech Stack ⚙️ <h3>
 
