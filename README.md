@@ -5,7 +5,7 @@
 <p>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jitoor610@gmail.com)](mailto:jitoor610@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/jinuk/)](https://www.linkedin.com/in/jinuk/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1877F2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jinuk/)](https://www.linkedin.com/in/jinuk/)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/profile.php?id=100001307603814)](https://www.facebook.com/profile.php?id=100001307603814) -->
 
 </p>
