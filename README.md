@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 I'm majoring in Software at Sangmyung University
 - 🌱 I'm currently learning `SwfitUI`
-- 🔭 I'm intereted in `iOS`, `Flutter` 
+- 🔭 I'm interested in `iOS`, `Flutter` 
 
 
 ## 💻 Experiences
