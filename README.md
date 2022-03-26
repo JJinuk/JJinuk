@@ -1,10 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Choi_Jinuk%20&fontSize=100&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=JJinuk%20&fontSize=100&descAlignY=51&descAlign=62)
 
-<h3 align="center">⚙️ Tech Stack ⚙️ <h3>
 
-<p align="center">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/> <p>
+## 👋 Hi there, I'm Jinuk
+<p>
 
-<p align="center">
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>&nbsp <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>&nbsp <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>&nbsp <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jitoor610@gmail.com)](mailto:jitoor610@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/jinuk/)](https://www.linkedin.com/in/jinuk/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/profile.php?id=100001307603814)](https://www.facebook.com/profile.php?id=100001307603814) -->
 
+</p>
+
+- 👨🏻‍💻 I'm majoring in Software at Sangmyung University
+- 🌱 I'm currently learning `SwfitUI`
+- 🔭 I'm intereted in `iOS`, `Flutter` 
+
+
+## 💻 Experiences
+- [Lead] `Google Developer Student Clubs` GDSC Sangmyung (2021.08 ~)
+  
+---
+## 💪 Skills
+
+#### ⚙️ Platforms & Languages ⚙️
+
+<p>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+
+#### ⚒️ Tools ⚒️
+<p>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code
+-007ACC?style=flat-square&logo=Visual Studio Code
+&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</p>
