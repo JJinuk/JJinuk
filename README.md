@@ -18,7 +18,6 @@
 ## 💻 Experiences
 - [Lead] `Google Developer Student Clubs` GDSC Sangmyung (2021.08 ~)
   
----
 ## 💪 Skills
 
 #### ⚙️ Platforms & Languages ⚙️
@@ -36,8 +35,7 @@
 #### ⚒️ Tools ⚒️
 <p>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code
--007ACC?style=flat-square&logo=Visual Studio Code
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode
 &logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
