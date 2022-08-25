@@ -16,7 +16,7 @@
 
 
 ## 💻 Experiences
-- [Lead] `Google Developer Student Clubs` GDSC Sangmyung (2021.07 ~ 2022.07)
+- [Lead] `Google Developer Student Clubs` GDSC Sangmyung (2021.08 ~ 2022.07)
   
 ## 💪 Skills
 
