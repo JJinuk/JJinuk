@@ -10,7 +10,7 @@
 
 </p>
 
-- 👨🏻‍💻 I'm majoring in Software at Sangmyung University
+- 👨🏻‍💻 I'majored in Software at Sangmyung University
 - 🌱 I'm currently learning `SwfitUI`
 - 🔭 I'm interested in `iOS`, `Flutter` 
 
