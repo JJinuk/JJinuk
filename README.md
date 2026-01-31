@@ -16,8 +16,9 @@
 
 
 ## 💻 Experiences
+- [Organizer] `KWDC` (2024.03 ~ )
 - [Organizer] `AsyncSwift` (2023.05 ~ )
-- [Organizer] `Let'Swift` (2023.03 ~ )
+- [Organizer] `Let'Swift` (2023.03 ~ 2024.10 )
 - [Lead] `Google Developer Student Clubs` GDSC Sangmyung (2021.08 ~ 2022.07)
   
 ## 💪 Skills
