@@ -10,7 +10,7 @@
 
 </p>
 
-- 👨🏻‍💻 I'majored in Software at Sangmyung University
+- 👨🏻‍💻 I'm working on `NHN Cloud`
 - 🌱 I'm currently learning `SwfitUI`
 - 🔭 I'm interested in `iOS`, `Flutter` 
 
