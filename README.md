@@ -10,9 +10,7 @@
 
 </p>
 
-- 👨🏻‍💻 I'm working on `NHN Cloud`
-- 🌱 I'm currently learning `SwfitUI`
-- 🔭 I'm interested in `iOS`, `Flutter` 
+- 👨🏻‍💻 I'm working on `Apple Developer Academy @ POSTECH`
 
 
 ## 💻 Experiences
